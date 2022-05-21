@@ -1,0 +1,22 @@
+.redes {
+    padding: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.whatsapp {
+    padding: auto;
+    margin-right: 10px;
+}
+
+.instagram {
+    padding: auto;
+    margin-right: 20px;
+}
+
+.facebook {
+    padding: auto;
+    margin-right: 10px;
+}
